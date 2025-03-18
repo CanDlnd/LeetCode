@@ -1,6 +1,6 @@
 /*
 
-QUESTION
+QUESTION:
 
 +-------------+---------+
 | Column Name | Type    |
