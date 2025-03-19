@@ -1,6 +1,9 @@
 /*
 
-QUESTION:
+question: https://leetcode.com/problems/big-countries/
+
+
+Table: World
 
 +-------------+---------+
 | Column Name | Type    |

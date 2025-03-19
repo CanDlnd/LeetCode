@@ -1,6 +1,8 @@
 /*
 
-QUESTION:
+question: https://leetcode.com/problems/find-customer-referee/ 
+
+Table: Customer
 
 +-------------+---------+
 | Column Name | Type    |

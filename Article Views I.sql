@@ -1,6 +1,9 @@
 /*
 
-QUESTION:
+question:   https://leetcode.com/problems/article-views-i/
+
+
+Table: Views
 
 +---------------+---------+
 | Column Name   | Type    |

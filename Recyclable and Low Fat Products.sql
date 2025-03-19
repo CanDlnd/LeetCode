@@ -1,6 +1,8 @@
 /*
 
-QUESTION:
+question: https://leetcode.com/problems/recyclable-and-low-fat-products/
+
+Table: Products
 
 +-------------+---------+
 | Column Name | Type    |

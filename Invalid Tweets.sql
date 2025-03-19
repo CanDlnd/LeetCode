@@ -1,6 +1,9 @@
 /*
 
-QUESTION:
+question: https://leetcode.com/problems/invalid-tweets/
+
+
+Table: Tweets
 
 +----------------+---------+
 | Column Name    | Type    |
